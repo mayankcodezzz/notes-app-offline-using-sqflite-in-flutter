@@ -1,4 +1,5 @@
 # notes-app-offline-using-sqflite-in-flutter
+![Notrika](https://github.com/mayankcodezzz/notes-app-offline-using-sqflite-in-flutter/assets/87845012/afe5c179-8dbf-42b3-8ace-72ed98ed0891)
 
 ![internday7 – homepage dart  internday7  09-06-2023 13_14_25](https://github.com/mayankcodezzz/notes-app-offline-using-sqflite-in-flutter/assets/87845012/3fc85bde-07ea-4bce-959c-78e4a72b34f7)
 ma![internday7 – homepage dart  internday7  09-06-2023 13_09_31](https://github.com/mayankcodezzz/notes-app-offline-using-sqflite-in-flutter/assets/87845012/a2e78267-4b09-4699-9309-36f1a175419e)
